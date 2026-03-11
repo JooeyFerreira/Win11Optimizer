@@ -3,10 +3,10 @@ Otimizador em ps1 leve e facil de utilizar para Windows.
 <img width="702" height="478" alt="image" src="https://github.com/user-attachments/assets/ba215381-124f-4e47-b49e-c341dafdf851" />
 
 
-O que o otimizador faz ?
+**O que o otimizador faz ?**
 
-R: Ele faz limpeza de memória em standby e memória em uso, sem fechar programas, de forma manual ou automática (é possível definir quando a limpeza será feita, se
-será quando atingir uma determinada % de memória em uso ou por tempo determinado pelo usuário);
+Ele faz limpeza de memória em standby e memória em uso, sem fechar programas, de forma manual ou automática (é possível definir quando a limpeza será feita, se
+será quando atingir uma determinada % de memória em uso ou por tempo determinado pelo usuário). O otimizador através do botão **LIMPAR TEMPORÁRIOS** também limpa o cache 3D do DX e da Nvidia;
 
 Botão para limpeza de arquivos temporários em seu próprio layout (é possivel editar qual pasta ele irá limpar conforme a imagem a seguir):
 
